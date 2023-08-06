@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.medium)
                 .foregroundColor(.accentColor)
             Text("Hello, GitHub")
+            Text("mamaliga")
         }
         .padding()
     }
